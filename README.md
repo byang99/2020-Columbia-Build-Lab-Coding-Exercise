@@ -8,7 +8,7 @@ This exercise should take no longer than 2 hours max.
 
 This exercise is designed to see how well you can read others' code, and extend it. As such, most of the code is already written - you only need to add a couple lines of code at the right place. 
 
-If you don't have flask on your computer, please install it using pip install Flask command. You can fork this repository and clone it to your desktop. You can run the code with the command $python server.py. Once you run it, you can type in http://127.0.0.1:5000/ on your browser to see the webpage rendered locally.
+If you don't have flask on your computer, please install it with $pip install Flask. You can fork this repository and clone it to your desktop. You can run the code with $python server.py. Once you run it, you can type in http://127.0.0.1:5000/ on your browser to see the webpage rendered locally.
 
 You'll see a short list of NHL teams, their scores, and a button to increase their score. Right now, clicking on the button doesn't increase the score immediately, but you need to refresh the page to see the difference. The goal is to reflect this change immediately on the front-end. Once that's done, we would also like to sort the teams so that whenever there's a score change, the list would change so that the teams are listed in non-increasing order from top to bottom (you don't need to sort them alphabetically when there is a tie). To do this, you would need to make changes in both server.py file and scoreboard.js file. When you're done, please send a pull request to this repository with your name and uni in the comment. Thanks and good luck!
 
