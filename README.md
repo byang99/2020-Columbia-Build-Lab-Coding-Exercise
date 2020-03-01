@@ -1,6 +1,6 @@
 # 2020-Columbia-Build-Lab-Coding-Exercise
 
-Thank you for your interest in joining Columbia Build Labs!
+Thank you for your interest in joining Columbia Build Lab!
 
 This is a simple coding exercise designed to see your proficiency in web programming. 
 Although it is written in Python and JS using flask framework, you don't need prior experience with it to complete the exercise - you are welcome and encouraged to use any online resources. 
