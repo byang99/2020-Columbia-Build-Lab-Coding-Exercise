@@ -4,7 +4,7 @@ Thank you for your interest in joining Columbia Build Lab!
 
 This is a simple coding exercise designed to see your proficiency in web programming. 
 Although it is written in Python and JS using flask framework, you don't need prior experience with them to complete the exercise - you are welcome and encouraged to use any online resources. 
-This exercise should take no longer than 1 hours, though you are welcome to take as much time as you need.
+This exercise should take no longer than 1 hour, though you are welcome to take as much time as you need.
 
 This exercise is designed to see how well you can read others' code, and extend it. As such, most of the code is already written - you only need to add a couple lines of code at the right place. 
 
